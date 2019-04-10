@@ -1,0 +1,50 @@
+body {
+    background-image: url(../images/dark-paths.png);
+    font-family: fantasy;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: blue;
+    width: 30%;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin: 5px 0 5px 5px;
+}
+
+section {
+    width: 31.5%;
+    background-color: orange;
+    padding: 40px 10px;
+    margin-left: 5px;
+}
+
+p {
+    margin: 5px 0 25px 0;
+}
+
+.crystals {
+    display: flex;
+    align-items: center;
+}
+
+.crystal {
+    border: 1px solid green;
+    height: 100px;
+    width: 112px;
+    margin: 2px;
+}
+
+div {
+    padding-top: 10px;
+    color: white;
+    font-size: 30px;
+    margin-left: 5px;
+    width: 33%;
+    background-color: cornflowerblue;
+}
+
+#target-score {
+    margin-top: 5px;
+}
